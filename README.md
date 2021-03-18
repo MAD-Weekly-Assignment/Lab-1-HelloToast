@@ -13,6 +13,8 @@
   - Toast Button
 <img src="Screenshots/HelloToast-ToastButton.gif" width=300/>
 
+# Hello Toast Challenge
+
 ### Hello Toast Challenge Overview
 
 - Application Index (Vertical)
